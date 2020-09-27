@@ -1,0 +1,103 @@
+https://www.anaconda.com/
+
+/////////////////
+How to Open Jupyter Noteook??
+
+*Tick --> Add Path Variable also, so that we can use from cmd
+
+Windows + R --> cmd --> 
+
+(base) C:\Users\kasi>F:
+
+(base) F:\>cd F:\DataScience\Python Practice
+
+(base) F:\DataScience\Python Practice>Jupyter Notebook
+
+==> F:
+cd DataScience\Python Practice
+Jupyter Notebook
+
+(or)
+Open Anaconda Prompt
+............................................
+
+Python 3.7 Version -  Windows
+
+ To access the notebook, open this file in a browser:
+        file:///C:/Users/DELL/AppData/Roaming/jupyter/runtime/nbserver-3328-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=61ba1c92c033b5627d1b82ef0f7ac945645fe3d093598cfc
+     or http://127.0.0.1:8888/?token=61ba1c92c033b5627d1b82ef0f7ac945645fe3d093598cfc
+
+///////////////////////////
+
+My GitHub:- https://github.com/JKPradeep/DataScienceMaterial.git
+
+*********OpenSource************
+Fundamentals : 
+
+Jupyter
+Pandas
+SciPy
+NumPy
+
+
+Machine Learning : 
+
+Keras
+TensorFlow
+PyTorch
+SciKit - Learn
+
+
+Data Visualization :
+
+matPlotlib
+bokeh
+plotly
+HoloViz
+
+
+Dashboarding :
+
+Panel
+Dash
+voila
+Streamlit
+
+
+ImageProcessing:
+
+Pillow
+sci-kit image
+OpenCV
+
+
+Scalable Computing : 
+
+Numba
+Dask
+Rapids
+Spark
+
+
+DataPipeLines / ETL:
+AirFlow
+InTake
+
+
+NLP:
+
+NLTK
+gensim
+spaCy
+
+
+AI Frontiers:
+
+ONNX
+Fairlearn
+AI Fairness
+InterpretML
+LIME
+
